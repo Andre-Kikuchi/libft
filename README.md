@@ -123,7 +123,7 @@ libft.a
 ## Clone the repository
 
 ```bash
-git clone https://github.com/Andre-Kikuchi/LIBFT.git libft
+git clone https://github.com/Andre-Kikuchi/libft.git
 cd libft
 ```
 
